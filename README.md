@@ -1,15 +1,12 @@
 # FSRO-analysis
 Frog Snake prey predation optimization technique
 
-by chatgpt:
-# Feature Selection Using Evolutionary Optimization
+# BY CHATGPT
+### Feature Selection Using Evolutionary Optimization
 
-This project implements a feature selection algorithm using a hybrid **Genetic Algorithm** and **Evolutionary Game Theory (EGT)**.
 
-## Installation
-Run the following command to install dependencies:
 ```text
-Here's a summary, analysis, and a Python implementation of the Frog-Snake Relationship Optimization (FSRO) algorithm based on your provided document.  
+Here's a summary and analysis of the Frog-Snake Relationship Optimization (FSRO) algorithm based on your provided document.  
 
 ---
 
